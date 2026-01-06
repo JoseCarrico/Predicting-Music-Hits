@@ -75,3 +75,12 @@ df = pd.read_csv('data/song_data.csv')
 
 # Or in repository root
 # df = pd.read_csv('song_data.csv')
+```
+**Author:** José Carriço  
+**LinkedIn:** [linkedin.com/in/josé-carriço](https://www.linkedin.com/in/josé-carriço)  
+**Kaggle:** [kaggle.com/joscarrio](https://www.kaggle.com/joscarrio)  
+
+**Goal:** Transitioning to Data & AI Analyst | Focused on Risk Management & Fintech.
+
+Feel free to fork, star, or reach out for collaborations! 🚀
+
